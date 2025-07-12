@@ -1,6 +1,7 @@
 # Team Corex
 
-🚀 **Team Corex** es un equipo conformado por siete estudiantes de la Universidad Tecnológica Nacional – Facultad Regional Córdoba (UTN FRC), actualmente desarrollando la misión **LAMBDA**, un CubeSat de clase 1U para la competencia **CUBESAT UTN 2025**.
+🚀 **Team Corex** es un equipo conformado por siete estudiantes de la Universidad Tecnológica Nacional – Facultad Regional Córdoba (UTN FRC),
+ actualmente desarrollando la misión **LAMBDA**, un CubeSat de clase 1U para la competencia [CUBESAT UTN 2025](https://utn.edu.ar/es/cubesat-utn).
 
 
 ## 🛰️ Misión LAMBDA
