@@ -14,7 +14,8 @@ Este experimento contribuirá a entender la resistencia y adaptabilidad de organ
 
 ## 📚 Documentación
 
-Toda la documentación técnica, reportes y especificaciones del proyecto se encuentra disponible en el repositorio [`Docs`](https://github.com/TeamCorex/Docs).
+Toda la documentación técnica, reportes y especificaciones del proyecto se encuentra disponible en el repositorio [`Docs`](https://github.com/TeamCorex/Docs), O en la siguiente
+carpeta de [`Drive`](https://drive.google.com/drive/u/1/folders/1Ri3OEng7t4Z0P9lp29xmS_LHC9f3J3kS).
 
 
 ## ⚖️ Licencia
