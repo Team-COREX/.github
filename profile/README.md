@@ -28,6 +28,8 @@ Este proyecto está licenciado bajo los términos de la [Licencia Apache 2.0](ht
 ¿Querés apoyar el desarrollo de esta misión?
 
 👉 Podes comprarnos un [cafecito](https://cafecito.app/misionlambda)
+
 👉 Podes realizar una transferencia bancaria al alias **lambda.cubesat** (recomendado).
+
 👉 Comunicate con nosotros en si estas interezado en ser Sponsor del proyecto.
 
