@@ -31,5 +31,5 @@ Este proyecto está licenciado bajo los términos de la [Licencia Apache 2.0](ht
 
 👉 Podes realizar una transferencia bancaria al alias **lambda.cubesat** (recomendado).
 
-👉 Comunicate con nosotros en si estas interezado en ser Sponsor del proyecto.
+👉 Comunicate con nosotros en si estás interesado en ser Espónsor del proyecto.
 
